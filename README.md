@@ -3,7 +3,7 @@
 ## Requisitos 
 - Modelo SMPL. Es necesario disponer de la libreria [SMPL](https://smpl.is.tue.mpg.de/index.html), la cual contiene código necesario, así como los modelos SMPL utilizados.
 - Librería Aitviewer.
-- Datos AMASS.
+- Datos AMASS. (en caso de que se requiera la base de datos con movimientos ya etiquetados, por favor contáctenme)
 
 ## Smplx
 

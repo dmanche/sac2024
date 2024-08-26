@@ -4,7 +4,7 @@
 - Modelo SMPL. Es necesario disponer de la libreria [SMPL](https://smpl.is.tue.mpg.de/index.html), la cual contiene código necesario, así como los modelos SMPL utilizados.
 - Librería [Aitviewer](https://github.com/eth-ait/aitviewer/tree/main/aitviewer).
 - Librería [smpl](https://github.com/vchoutas/smplx/tree/main/smplx).
-- Datos [AMASS](https://amass.is.tue.mpg.de/). (en caso de que se requiera la base de datos con movimientos ya etiquetados, por favor contáctenme)
+- Datos [AMASS](https://amass.is.tue.mpg.de/). En caso de que se requiera la base de datos con movimientos ya etiquetados, por favor contáctenme.
 
 ## Smplx
 

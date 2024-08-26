@@ -2,6 +2,8 @@
 
 ## Requisitos 
 - Modelo SMPL. Es necesario disponer de la libreria [SMPL](https://smpl.is.tue.mpg.de/index.html), la cual contiene código necesario, así como los modelos SMPL utilizados.
+- Librería Aitviewer.
+- Datos AMASS.
 
 ## Smplx
 

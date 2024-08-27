@@ -1,4 +1,4 @@
-# Síntesis de una base de datos y clasificación del movimiento humano basado en IMU mediante redes neuronales para la rehabilitación asistida con exoesqueleto
+# Synthesis And Classification (SAC): Síntesis de una base de datos y clasificación del movimiento humano basado en IMU mediante redes neuronales para la rehabilitación asistida con exoesqueleto
 
 ## Requisitos 
 - Modelo SMPL. Es necesario disponer de la libreria [SMPL](https://smpl.is.tue.mpg.de/index.html), la cual contiene código necesario, así como los modelos SMPL utilizados.

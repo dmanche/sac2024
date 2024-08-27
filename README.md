@@ -6,6 +6,7 @@
 - Librería [SMPLX](https://github.com/vchoutas/smplx/tree/main/smplx).
 - Datos [AMASS](https://amass.is.tue.mpg.de/). En caso de que se requiera la base de datos con movimientos ya etiquetados, por favor contáctenme.
 - La versión utilizada para python es la 3.8.0, versiones superiores pueden dar lugar a problemas con el uso de tensorflow.
+- La versión utilizada para tensorflow es la 2.10.0. En caso de querer realizar la instalación, recomiendo el siguiente [tutorial](https://youtu.be/hHWkvEcDBO0?si=l2H_PB0Oysy1_lH3).
 
 ## Smplx
 La carpeta contiene el archivo [body_models.py](./smplx/body_models.py). En caso de querer utilizarse, sustituirlo por el archivo del mismo nombre contenido en la librería SMPLX.

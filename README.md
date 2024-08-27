@@ -15,4 +15,12 @@ La carpeta aitviewer contiene la configuración usada durante el uso de la libre
 ## Síntesis
 El archivo [aux_and_synthesis.ipynb](./aux_and_synthesis.ipynb) contiene codigo auxiliar (leer y cargar datos en formato .pkl, representar modelos SMPL, pasar de .npz a .pkl...) y el código utilizado para realizar la síntesis de datos.
 
+## Red
+
+### Preprocesado
+El archivo [preprocesado.ipynb](./preprocesado.ipynb) contiene el código relativo a la carga de datos y preprocesado realizado antes de introducir los datos en la red. También contiene el código de la evaluación.
+
+### Redes
+El archivo [Redes.ipynb](./Redes.ipynb) contiene las distintas redes usadas en el desarrollo del TFG.
+
 

@@ -25,4 +25,7 @@ El archivo [preprocesado.ipynb](./preprocesado.ipynb) contiene el código relati
 ### Redes
 El archivo [Redes.ipynb](./Redes.ipynb) contiene las distintas redes usadas en el desarrollo del TFG.
 
+### Datos
+La carpeta con los datos ya sintetizados y clasificados se encuentra subida en [drive](https://drive.google.com/drive/folders/1n18zbdNR3EYaqvdYyHdoP9ouTpQiHxRh?usp=sharing).
+
 
